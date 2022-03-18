@@ -1,2 +1,2 @@
-# demoproject Php sdk package and examples
+# demoproject Php package and examples
 This is repository for php demo project.
